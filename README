@@ -1,1 +1,9 @@
-
+EJBCA installation guide for Linux
+By: Abdulrahman Mohammed
+@0x3bd0
+Requirements
+VM running Linux (I am using Kali Linux 2019.4)
+  OpenJDK 8
+  Ant tool
+  Ejbca 6-15-2-1
+  jboss-eap-6.4
